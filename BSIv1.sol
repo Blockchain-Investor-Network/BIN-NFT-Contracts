@@ -14,7 +14,7 @@ contract BlockchainInvestorNetwork is ERC721, Ownable {
     constructor() ERC721("Blockchain Investor Network", "BSI") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        return "https://www.nftjpg.com";
+        return "https://github.com/Blockchain-Investor-Network/BIN-NFT-Contracts/blob/main/image/BSI.png";
     }
 
     function safeMint(address to) public onlyOwner {
