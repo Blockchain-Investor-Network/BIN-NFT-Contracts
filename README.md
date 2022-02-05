@@ -1,7 +1,7 @@
 # BIN-NFT-Contracts
 Qualification NFT - Accredited Investor Status
 
-Blockchain Sophisticated Investors that meet the threshold of accredited investor within their jurisdictions are awarded this NFT.
+Blockchain Sophisticated Investors(BSIs) that meet the threshold of accredited investor within their jurisdictions are awarded this NFT.
 
 V1 Contracts - Currently deployed - Minted based on internal controls with offchain price feed.
 
